@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @mkoosa
-- 👀 I’m interested in programming and new technologies.
-- 🌱 I’m currently learning Java Script
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me .... . Just write.
+- 👋 Hi, My name's Marcin. 
+- 👀 I’have been interested in Frontend technologies since Covid. Better to say I'm pasionated and fascinated about Frontend. 
+- 🌱 I’m constantly improving JS and TS skills. As Frame Work I use mostly Vue3 for SPA.
+- You can find my projects in my repositories. All project can be opened directly in internet browser.
+- I will be very thankful for yor feedbacks abou projects.  
+- 💞️ I’m curently looking for Job as Junior or Frontend Developer
+- 📫If you want contact me, just write.
 
 <!---
 mkoosa/mkoosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
