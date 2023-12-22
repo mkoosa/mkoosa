@@ -3,7 +3,6 @@
 - 🌱 I’m constantly improving JS and TS skills. As Frame Work I use mostly Vue3 for SPA.
 - You can find my projects in my repositories. All project can be opened directly in internet browser.
 - I will be very thankful for yor feedbacks abou projects.  
-- 💞️ I’m curently looking for Job as Junior or Frontend Developer
 - 📫If you want contact me, just write.
 
 <!---
